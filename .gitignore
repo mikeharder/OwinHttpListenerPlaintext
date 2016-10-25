@@ -8,3 +8,5 @@ appsettings.json
 project.lock.json
 
 *.xproj.user
+
+packages
